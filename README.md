@@ -2,17 +2,14 @@ Credit Scoring
 =============
 
 Petit example of credit scoring analysis based on the 
-[data mining course](http://www.lsi.upc.edu/~belanche/Docencia/mineria/mineria.html) of my former PhD adviser Tomas Aluja
+Based on my learnign from DataTalksClub ML Zoomcamp.
 
-The project contains two datasets in csv format (raw data, and cleaned data), as well as the R scripts for the analysis 
+The project contains two datasets in csv format (raw data, and cleaned data)
 
 * Part 1 - **Data Processing**
-* Part 2 - **Profiling**
-* Part 3 - **Principal Components Analysis**
-* Part 4 - **Multiple Correspondence Analysis**
-* Part 5 - **Clustering Analysis**
-* Part 6 - **Decision Trees**
-* Part 7 - **Logistic Regression**
+* Part 2 - **Decision Tree**
+* Part 3 - **Random Forest**
+* Part 4 - **Xgboost**
 
 ------------
 The raw dataset is in the file **"CreditScoring.csv"** which contains 4455 rows and 14 columns:
